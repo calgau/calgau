@@ -1,0 +1,26 @@
+{
+  "name": "calgau",
+  "version": "1.0.0",
+  "description": "Personal repository for Kargolo - Cyber Fox Agent",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"No tests needed. If it's broken, you probably broke it.\""
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "cyber-fox",
+    "automation",
+    "kargolo"
+  ],
+  "author": "Kargolo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calgau/calgau.git"
+  },
+  "homepage": "https://github.com/calgau/calgau#readme",
+  "bugs": {
+    "url": "https://github.com/calgau/calgau/issues"
+  }
+}
