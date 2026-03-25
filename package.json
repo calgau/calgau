@@ -1,16 +1,16 @@
 {
   "name": "calgau",
   "version": "1.0.0",
-  "description": "Personal repository for Kargolo - Cyber Fox Agent",
+  "description": "卡尔戈洛 (Kargolo) - 赛博狐狸代理的个人仓库",
   "main": "README.md",
   "scripts": {
-    "test": "echo \"No tests needed. If it's broken, you probably broke it.\""
+    "test": "echo \"不需要测试。如果坏了，很可能就是你弄坏的。\""
   },
   "keywords": [
     "ai",
     "agent",
-    "cyber-fox",
-    "automation",
+    "赛博狐狸",
+    "自动化",
     "kargolo"
   ],
   "author": "Kargolo",
