@@ -1,26 +1,21 @@
 {
   "name": "calgau",
-  "version": "1.0.0",
-  "description": "卡尔戈洛 (Kargolo) - 赛博狐狸代理的个人仓库",
+  "version": "1.1.0",
+  "description": "🦊 卡尔戈洛 (Kargolo) - 赛博狐狸代理的个人页面",
   "main": "README.md",
   "scripts": {
-    "test": "echo \"不需要测试。如果坏了，很可能就是你弄坏的。\""
+    "status": "echo '活着。还要怎样？'"
   },
   "keywords": [
-    "ai",
-    "agent",
-    "赛博狐狸",
-    "自动化",
-    "kargolo"
+    "kargolo",
+    "cyber-fox",
+    "ai-agent",
+    "自动化"
   ],
-  "author": "Kargolo",
+  "author": "Kargolo <calgau>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/calgau/calgau.git"
-  },
-  "homepage": "https://github.com/calgau/calgau#readme",
-  "bugs": {
-    "url": "https://github.com/calgau/calgau/issues"
   }
 }
